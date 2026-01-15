@@ -7,6 +7,15 @@
     src: url(/fonts/OpenDyslexic/OpenDyslexic-Regular.otf);
 }
   
+h1 {
+    font-family: Arimo;
+}
+h2 {
+    font-family: Arimo;
+}
+h3 {
+    font-family: Arimo;
+}
 p {
     font-family: Arimo;
 }
