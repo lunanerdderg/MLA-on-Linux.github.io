@@ -2,7 +2,7 @@
 
 *This is a simplified, non-comprehensive guide to the Attribution-NonCommercial-ShareAlike 4.0 International license, and should not be taken as legal advice. Please consult a lawyer before taking any action.*
 
-Everything on these webpages **except for the [fonts](#fonts)** are created by me and under this license. 
+Everything on these webpages ***except for the [fonts](#fonts)*** are created by me and under this license. 
 
 You may use my work in any way you wish, as long as:
 
