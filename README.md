@@ -19,4 +19,4 @@ You can view the full license [here](https://github.com/lunanerdderg/MLAonLinux.
 
 ## Fonts
 
-* Arimo was created by Steve Matteson and is licensed under the Apache License 2.0. A copy of the license can be found [here](https://github.com/lunanerdderg/MLA-on-Linux.github.io/blob/main/ARIMO-LICENSE). The font remains in an unchanged form throughout every webpage
+* **Arimo** was created by Steve Matteson and is licensed under the Apache License 2.0. A copy of the license can be found [here](https://github.com/lunanerdderg/MLA-on-Linux.github.io/blob/main/ARIMO-LICENSE). The font remains in an unchanged form throughout every webpage
