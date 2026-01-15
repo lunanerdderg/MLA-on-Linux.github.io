@@ -2,6 +2,8 @@
 
 #### While there are many different ways to make use of the MLA format for writing essays, this guide will only go over the most popular, easiest 3 methods.
 
+[![Use Winboat](https://www.winboat.app/_astro/winboat_logo.NqN8dmd9.svg)](https://docs.github.com/en/pages)
+
 # License
 
 *This is a simplified, non-encompassing guide to the Attribution-NonCommercial-ShareAlike 4.0 International license.*
