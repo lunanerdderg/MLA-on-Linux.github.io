@@ -1,6 +1,6 @@
 # License
 
-*This is a simplified, non-encompassing guide to the Attribution-NonCommercial-ShareAlike 4.0 International license.*
+*This is a simplified, non-comprehensive guide to the Attribution-NonCommercial-ShareAlike 4.0 International license.*
 
 You may use my work in any way you wish, as long as:
 
