@@ -24,4 +24,4 @@ You can view the full license [here](https://github.com/lunanerdderg/MLAonLinux.
 
 ## Logos
 
-* [Winboat]([https://fonts.google.com/specimen/Arimo](https://www.winboat.app/)) was created by [Tibix](https://github.com/TibixDev) and is licensed under the MIT License. A copy of the license can be found [here](https://github.com/lunanerdderg/MLA-on-Linux.github.io/blob/main/Winboat-LICENSE). In no way is Tibix affiliated with me or this project, and in no way does Tibix endorse anything related to me or this project.
+* [Winboat](https://www.winboat.app/) was created by [Tibix](https://github.com/TibixDev) and is licensed under the MIT License. A copy of the license can be found [here](https://github.com/lunanerdderg/MLA-on-Linux.github.io/blob/main/Winboat-LICENSE). In no way is Tibix affiliated with me or this project, and in no way does Tibix endorse anything related to me or this project.
