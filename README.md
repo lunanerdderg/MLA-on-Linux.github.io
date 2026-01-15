@@ -2,6 +2,8 @@
 
 *This is a simplified, non-comprehensive guide to the Attribution-NonCommercial-ShareAlike 4.0 International license.*
 
+Everything on these webpages except for the fonts are created by me and are under this license. 
+
 You may use my work in any way you wish, as long as:
 
 * You credit me
@@ -14,3 +16,7 @@ You may use my work in any way you wish, as long as:
 You can view the license deed [here](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 You can view the full license [here](https://github.com/lunanerdderg/MLAonLinux.github.io/blob/main/LICENSE)
+
+## Fonts
+
+Arimo was created by Steve Matteson and is licensed under the Apache License 2.0, which can be found [here](https://github.com/lunanerdderg/MLA-on-Linux.github.io/blob/main/ARIMO-LICENSE).
