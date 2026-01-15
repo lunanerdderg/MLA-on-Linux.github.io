@@ -1,6 +1,6 @@
 # Licenses
 
-*This is a simplified, non-comprehensive guide to the Attribution-NonCommercial-ShareAlike 4.0 International license, and should not be taken as legal advice.*
+*This is a simplified, non-comprehensive guide to the Attribution-NonCommercial-ShareAlike 4.0 International license, and should not be taken as legal advice. Please consult a lawyer before taking any action.*
 
 Everything on these webpages except for the fonts are written by me and under this license. 
 
