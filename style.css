@@ -3,8 +3,8 @@
     src: url(/fonts/Arimo-VariableFont_wght.ttf);
 }
 @font-face {
-    font-family: OpenDyslexic-Regular;
-    src: url(/fonts/OpenDyslexic/OpenDyslexic-Regular.otf);
+    font-family: OpenDyslexic;
+    src: url(/fonts/OpenDyslexic/OpenDyslexic-Regular.otf) format("opentype");
 }
   
 h1 {
@@ -17,7 +17,7 @@ h3 {
     font-family: Arimo;
 }
 p {
-    font-family: OpenDyslexic-Regular;
+    font-family: OpenDyslexic;
 }
 li {
     font-family: Arimo;
