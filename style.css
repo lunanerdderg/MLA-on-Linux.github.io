@@ -1,26 +1,5 @@
 @font-face {
-    font-family: 'Arimo';
-    src: url('/fonts/Arimo-VariableFont_wght.ttf') format('truetype');
-}
-@font-face {
     font-family: 'OpenDyslexic';
     src: url('/fonts/OpenDyslexic/OpenDyslexic-Regular.otf') format('opentype');
-    font-weight: normal;
-    font-style: normal;
 }
-  
-h1 {
-    font-family: Arimo;
-}
-h2 {
-    font-family: Arimo;
-}
-h3 {
-    font-family: Arimo;
-}
-p {
-    font-family: Arimo;
-}
-li {
-    font-family: Arimo;
-}
+
