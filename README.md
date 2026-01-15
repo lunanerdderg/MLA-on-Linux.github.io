@@ -1,8 +1,8 @@
-# License
+# Licenses
 
 *This is a simplified, non-comprehensive guide to the Attribution-NonCommercial-ShareAlike 4.0 International license.*
 
-Everything on these webpages except for the fonts are created by me and are under this license. 
+Everything on these webpages except for the fonts are written by me and under this license. 
 
 You may use my work in any way you wish, as long as:
 
