@@ -15,7 +15,7 @@ You may use my work in any way you wish, as long as:
 
 You can view the license deed [here](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-You can view the full license [here](https://github.com/lunanerdderg/MLAonLinux.github.io/blob/main/LICENSE)
+You can view the full license [here](https://github.com/lunanerdderg/MLAonLinux.github.io/blob/main/LICENSE).
 
 ## Fonts
 
