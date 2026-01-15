@@ -1,5 +1,6 @@
 @font-face {
     font-family: 'OpenDyslexic';
-    src: url('https://raw.githubusercontent.com/lunanerdderg/MLA-on-Linux.github.io/main/fonts/OpenDyslexic/OpenDyslexic-Regular.otf') format('opentype');
+    src: url('/fonts/OpenDyslexic/OpenDyslexic-Regular.otf') format('opentype');
+    font-style: normal;
 }
 
