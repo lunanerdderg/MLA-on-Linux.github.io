@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="arimo-style.css">
+    <title>LibreOffice directions</title>
+</head>
+
+<body>
+    <p>TEST</p>
+</body>
+
+<div style="float: none;">
+<p><br><br><br>-----------------------------------------------------------------------</p>
+<p>Licenses:</p>
+<ul>
+    <li><a href="https://fonts.google.com/specimen/Arimo">Arimo</a> was created by <a href="https://mattesontypographics.com/">Steve Matteson</a> and is licensed under the Apache License 2.0. A copy of the license can be found <a href="https://github.com/lunanerdderg/MLA-on-Linux.github.io/blob/main/Arimo-LICENSE">here</a>. The font remains in an unchanged form throughout the entire project. In no way is Steve Matteson affiliated with me or this project, and in no way does Steve Matteson endorse anything related to me or this project. Steve Matteson is not liable for anything I do with the Arimo font.</li>
+    <li>Copyright (c) November 29th 2025, <a href="https://abbiegonzalez.com/">Abbie Gonzalez</a> (<a href="https://abbiegonzalez.com/">https://abbiegonzalez.com/</a>),
+with Reserved Font Name <a href="https://opendyslexic.org/">OpenDyslexic</a>.
+A copy of the SIL Open Font License can be found <a href="https://github.com/lunanerdderg/MLA-on-Linux.github.io/blob/main/OpenDyslexic-LICENSE">here</a>. The font remains in an unchanged form throughout the entire project. In no way is Abbie Gonzalez affiliated with me or this project, and in no way does Abbie Gonzalez endorse anything related to me or this project. Abbie Gonzalez is not liable for anything I do with the OpenDyslexic font.</li>
+</ul>
+</div>
+</html>
