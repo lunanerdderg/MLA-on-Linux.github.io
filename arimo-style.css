@@ -10,3 +10,19 @@
          url('fonts/OpenDyslexic/OpenDyslexic-Regular.ttf') format('truetype'),
          url('fonts/OpenDyslexic/OpenDyslexic-Regular.svg#OpenDyslexic') format('svg');
 }
+
+h1 {
+    font-family: Arimo;
+}
+h2 {
+    font-family: Arimo;
+}
+h3 {
+    font-family: Arimo;
+}
+p {
+    font-family: Arimo;
+}
+li {
+    font-family: Arimo;
+}
