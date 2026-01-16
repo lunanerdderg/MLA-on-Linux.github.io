@@ -1,4 +1,7 @@
-
+@font-face {
+    font-family: 'Arimo';
+    src: url('/fonts/Arimo-VariableFont_wght.ttf') format('truetype');
+}
 @font-face {
     font-family: 'OpenDyslexic';
     src: url('fonts/OpenDyslexic/OpenDyslexic-Regular.eot');
@@ -6,4 +9,8 @@
          url('fonts/OpenDyslexic/OpenDyslexic-Regular.woff') format('woff'),
          url('fonts/OpenDyslexic/OpenDyslexic-Regular.ttf') format('truetype'),
          url('fonts/OpenDyslexic/OpenDyslexic-Regular.svg#OpenDyslexic') format('svg');
+}
+
+p {
+    font-family: OpenDyslexic;
 }
