@@ -1,4 +1,4 @@
-**If you're looking for the tutorial, click [here](https://lunanerdderg.github.io/MLA-on-Linux.github.io/).**
+_**If you're looking for the tutorial, click [here](https://lunanerdderg.github.io/MLA-on-Linux.github.io/).**_
 
 # Licenses
 
