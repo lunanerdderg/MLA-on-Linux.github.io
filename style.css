@@ -10,7 +10,3 @@
          url('fonts/OpenDyslexic/OpenDyslexic-Regular.ttf') format('truetype'),
          url('fonts/OpenDyslexic/OpenDyslexic-Regular.svg#OpenDyslexic') format('svg');
 }
-
-p {
-    font-family: OpenDyslexic;
-}
