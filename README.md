@@ -1,3 +1,5 @@
+If you're looking for the tutorial, click [here](https://lunanerdderg.github.io/MLA-on-Linux.github.io/).
+
 # Licenses
 
 *This is a simplified, non-comprehensive guide to the Attribution-NonCommercial-ShareAlike 4.0 International license, and should not be taken as legal advice. Please consult a lawyer before taking any action.*
