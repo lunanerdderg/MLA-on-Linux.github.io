@@ -56,10 +56,26 @@
                 </tr>
             </table><br>
         </li>
-        <li>Install the Times New Roman font.</li>
-        <blockquote style="background-color: #f6f8fa;"><br>
-            Test<br>
-        </blockquote>
+        <li>Install the Times New Roman font.
+            <ul>
+                <li>Debian-based distribution users, copy and paste this into your terminal:<br>
+                    <blockquote style="background-color: #f6f8fa;"><br>
+                        sudo apt-get update && sudo apt-get install ttf-mscorefonts-installer -y<br>
+                    </blockquote>
+                </li><br>
+                <li>Arch-based distribution users, copy and paste this into your terminal:<br>
+                    <blockquote style="background-color: #f6f8fa;"><br>
+                        if ! pacman -Qi base-devel > /dev/null ; then<br>
+                            sudo pacman -S base-devel<br>
+                        fi<br>
+                        git clone https://aur.archlinux.org/ttf-ms-win11-auto.git<br>
+                        cd ttf-ms-win11-auto/<br>
+                        mkpkg -si<br>
+                        rm -rf ttf-ms-win11-auto<br>
+                    </blockquote>
+                </li><br>
+            </ul>
+        </li>
     </ol>
 </body>
 
