@@ -28,6 +28,7 @@ li {
 }
 
 .banner {
+    font-family: Arimo;
     width: 100%;
     background-color: green;
     overflow: auto;
