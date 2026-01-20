@@ -29,6 +29,21 @@ li {
 blockquote {
     font-family: Arimo;
 }
+table {
+    font-family: Arimo;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
 
 .banner {
     font-family: Arimo;
