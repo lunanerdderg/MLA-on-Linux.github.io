@@ -29,18 +29,18 @@ li {
 
 .banner {
     width: 100%;
-    background-color: #333333;
+    background-color: #04AA6D;
     overflow: auto;
 }
 .banner a {
     float: left;
-    color: #f2f2f2;
+    color: white;
     text-align: center;
     padding: 14px;
     text-decoration: none;
     font-size: 17px;
 }
 .banner a:hover {
-    background-color: #dddddd;
+    background-color: #000000;
     color: black;
 }
