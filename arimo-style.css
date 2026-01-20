@@ -28,7 +28,7 @@ li {
 }
 
 .banner {
-  background-color: #333;
+  background-color: #333333;
   overflow: hidden;
 }
 .banner a {
@@ -40,6 +40,6 @@ li {
   font-size: 17px;
 }
 .banner a:hover {
-  background-color: #ddd;
+  background-color: #dddddd;
   color: black;
 }
