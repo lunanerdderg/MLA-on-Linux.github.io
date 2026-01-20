@@ -28,18 +28,19 @@ li {
 }
 
 .banner {
-  background-color: #333333;
-  overflow: hidden;
+    width: 100%;
+    background-color: #333333;
+    overflow: auto;
 }
 .banner a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 17px;
 }
 .banner a:hover {
-  background-color: #dddddd;
-  color: black;
+    background-color: #dddddd;
+    color: black;
 }
