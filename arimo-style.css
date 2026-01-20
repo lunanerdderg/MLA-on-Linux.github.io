@@ -30,7 +30,6 @@ li {
 .banner {
     font-family: Arimo;
     width: 100%;
-    background-color: green;
     overflow: auto;
 }
 .banner a {
@@ -43,5 +42,4 @@ li {
 }
 .banner a:hover {
     background-color: #000000;
-    color: black;
 }
