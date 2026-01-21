@@ -11,21 +11,15 @@
          url('fonts/OpenDyslexic/OpenDyslexic-Regular.svg#OpenDyslexic') format('svg');
 }
 
-h1 {
-    font-family: Arimo;
-}
-h2 {
-    font-family: Arimo;
-}
-h3 {
-    font-family: Arimo;
-}
-p {
+h1, h2, h3, p {
     font-family: Arimo;
 }
 li {
     font-family: Arimo;
-    padding-bottom: 20px;
+    padding-top: 20px;
+}
+ul, ol {
+    padding-top: 20px;
 }
 blockquote {
     font-family: Arimo;
