@@ -11,19 +11,44 @@
          url('fonts/OpenDyslexic/OpenDyslexic-Regular.svg#OpenDyslexic') format('svg');
 }
 
-h1 {
-    font-family: OpenDyslexic;
-}
-h2 {
-    font-family: OpenDyslexic;
-}
-h3 {
-    font-family: OpenDyslexic;
-}
-p {
+h1, h2, h3, p {
     font-family: OpenDyslexic;
 }
 li {
     font-family: OpenDyslexic;
-    padding-bottom: 20px;
+    padding-top: 20px;
+}
+ul, ol {
+    padding-top: 20px;
+}
+blockquote {
+    font-family: OpenDyslexic;
+    background-color: #dddddd;
+}
+table {
+    font-family: OpenDyslexic;
+    border-collapse: collapse;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+
+.banner {
+    font-family: OpenDyslexic;
+    width: 100%;
+    overflow: auto;
+}
+.banner a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 17px;
 }
