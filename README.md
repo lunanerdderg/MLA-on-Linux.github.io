@@ -2,7 +2,7 @@ _**If you're looking for the tutorial, click [here](https://lunanerdderg.github.
 
 # Licenses
 
-Everything on these webpages and in this repository ***except for the screenshots, .odt & .docx files, [fonts](#fonts), Microsoft Word logo, LibreOffice Writer logo, and Winboat logo*** are created by me and under the Attribution-NonCommercial-ShareAlike 4.0 International license. (Screenshots were taken by me, but I did not create the programs they depict. I created the .odt & .docx files, but they are under the [CC0 1.0 Universal license](https://github.com/lunanerdderg/MLA-on-Linux.github.io/blob/main/ODT-and-DOCX-file-LICENSE.txt). All html docs and CSS docs were written by me, the home icon was created by me, and the A4 vs. US Letter comparison graphic was created by me, and all under the CC BY-NC-SA 4.0 license.)
+Everything on these webpages and in this repository ***except for the screenshots, .odt & .docx files, [fonts](#fonts), Microsoft Word logo, LibreOffice Writer logo, and Winboat logo*** are created by me and under the Attribution-NonCommercial-ShareAlike 4.0 International license. (Screenshots were taken by me, but I did not create the programs they depict. I created the .odt & .docx files, but they are under the [CC0 1.0 Universal license](https://github.com/lunanerdderg/MLA-on-Linux.github.io/blob/main/ODT-and-DOCX-file-LICENSE.txt). All html files, all CSS files, the home icon, and the A4 vs. US Letter comparison graphic were created by me, and are all under the CC BY-NC-SA 4.0 license.)
 
 *This is a simplified, non-comprehensive guide to the Attribution-NonCommercial-ShareAlike 4.0 International license, and should not be taken as legal advice. Please consult a lawyer before taking any action.*
 
