@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="arimo-style.css">
+    <title>LibreOffice directions</title>
+</head>
+
+<div class="banner">
+    <a href="https://lunanerdderg.github.io/MLA-on-Linux.github.io/" style="width: 1.5%;"><img src="https://raw.githubusercontent.com/lunanerdderg/MLA-on-Linux.github.io/refs/heads/main/img/house-icon.svg" alt="Home icon" style="width: 100%;"></a>
+    <a href="https://lunanerdderg.github.io/MLA-on-Linux.github.io/word-online.html" style="background-color: #5e74fa;">Word Online</a>
+    <a style="background-color: #00a3ff;">LibreOffice Writer</a>
+    <a href="https://lunanerdderg.github.io/MLA-on-Linux.github.io/winboat.html" style="background-color: #d293ff;">Winboat</a>
+</div>
+    
+<body>
+    <h1>How to use LibreOffice on Linux</h1>
+    <ol style="padding-top: 0px;">
+        <li style="padding-top: 0px;">Plenty of Linux distributions have LibreOffice already installed, so check if you already have it before trying to install it.</li>
+        <li>
+            If you don't have it, install the version of LibreOffice for your distribution:<br>
+            <table>
+                <tr>
+                    <th>Distribution</th>
+                    <th>Install link</th>
+                </tr>
+                <tr>
+                    <td>
+                        Debian-based distributions:
+                        <ul style="padding-top: 0px;">
+                            <li style="padding-top: 0px;">Linux Mint</li>
+                            <li style="padding-top: 0px;">ZorinOS</li>
+                            <li style="padding-top: 0px;">Ubuntu</li>
+                        </ul>
+                    </td>
+                    <td><a href="https://www.libreoffice.org/download/download-libreoffice/?type=deb-x86_64">DEB package</a></td>
+                </tr>
+                <tr>
+                    <td>
+                        Fedora-based distributions:
+                        <ul style="padding-top: 0px;">
+                            <li style="padding-top: 0px;">CentOS</li>
+                            <li style="padding-top: 0px;">Bazzite</li>
+                            <li style="padding-top: 0px;">Nobara</li>
+                        </ul>
+                    </td>
+                    <td><a href="https://www.libreoffice.org/download/download-libreoffice/?type=rpm-x86_64">RPM package</a></td>
+                </tr>
+                <tr>
+                    <td>Other distributions:</td>
+                    <td>
+                        <ul style="padding-top: 0px;">
+                            <li style="padding-top: 0px;"><a href="https://flathub.org/en/apps/org.libreoffice.LibreOffice">Flatpak</a></li>
+                            <li style="padding-top: 0px;"><a href="https://snapcraft.io/libreoffice">Snap</a></li>
+                            <li style="padding-top: 0px;"><a href="https://www.libreoffice.org/download/appimage/">AppImage</a></li>
+                        </ul>
+                    </td>
+                </tr>
+            </table><br>
+        </li>
+        <li>
+            Install the Times New Roman font.
+            <ul>
+                <li>
+                    Debian-based distribution users, copy and paste this into your terminal:<br>
+                    <blockquote>
+                        sudo apt-get update && sudo apt-get install ttf-mscorefonts-installer -y<br>
+                    </blockquote>
+                </li>
+                <li>Arch-based distribution users, copy and paste this into your terminal: (SteamOS, CachyOS, Manjaro)<br>
+                    <blockquote>
+                        if ! pacman -Qi base-devel > /dev/null ; then<br>
+                            sudo pacman -S base-devel<br>
+                        fi<br>
+                        git clone https://aur.archlinux.org/ttf-ms-win11-auto.git<br>
+                        cd ttf-ms-win11-auto/<br>
+                        mkpkg -si<br>
+                        rm -rf ttf-ms-win11-auto<br>
+                    </blockquote>
+                </li>
+                <li>Fedora-based distribution users, copy and paste this into your terminal:<br>
+                    <blockquote>
+                        sudo dnf install ttf-mscorefonts-installer -y<br>
+                    </blockquote>
+                </li>
+            </ul>
+        </li>
+        <li>
+            Change BOTH the default Print and Page settings:
+            <ul>
+                <li>
+                    By default, LibreOffice uses the international A4 style (8.3 x 11.7 ins). However, the United States of America uses US Letter (8.5 x 11 ins)<br>
+                    Size comparison:<br>
+                    <img src="https://raw.githubusercontent.com/lunanerdderg/MLA-on-Linux.github.io/refs/heads/main/img/LibreOffice-A4-vs-US_Letter.png" alt="Size comparison between A4 and US Letter">
+                </li>
+                <li>
+                    Changing default Print settings:
+                    <ol>
+                        <li>
+                            Go into File --> Printer Settings and make sure your printer is selected, then go into Properties.<br>
+                            <img src="https://raw.githubusercontent.com/lunanerdderg/MLA-on-Linux.github.io/refs/heads/main/img/LibreOffice-File-Printer_Settings.jpg" style="height: 381px;"><img src="https://raw.githubusercontent.com/lunanerdderg/MLA-on-Linux.github.io/refs/heads/main/img/LibreOffice-File-Printer_Settings-Properties.png">
+                        </li>
+                        <li>
+                            In the "Paper Size" dropdown, select "US Letter", then hit "Ok".<br>
+                            <img src="https://raw.githubusercontent.com/lunanerdderg/MLA-on-Linux.github.io/refs/heads/main/img/LibreOffice-File-Printer_Settings-Properties-Paper_size.jpg">
+                        </li>
+                    </ol>
+                </li>
+                <li>
+                    Changing default Page settings:
+                    <ol>
+                        <li>
+                            Go into Format --> Page Style and change the value of the "Format" dropdown to "Letter".<br>
+                            <img src="https://raw.githubusercontent.com/lunanerdderg/MLA-on-Linux.github.io/refs/heads/main/img/LibreOffice-Format-Page_Style.jpg" style="height: 634px; padding-right: 20px;"><img src="https://raw.githubusercontent.com/lunanerdderg/MLA-on-Linux.github.io/refs/heads/main/img/LibreOffice-Format-Page_Style-Format.jpg">
+                        </li>
+                        <li>
+                            Change the "Left" and "Right" Margin values to 1, and the "Top" and "Bottom" to 0.50. Then hit "Apply".<br>
+                            <img src="https://raw.githubusercontent.com/lunanerdderg/MLA-on-Linux.github.io/refs/heads/main/img/LibreOffice-Format-Page_Style-Margins.png">
+                        </li>
+                        <li>
+                            Switch to the Header tab and turn Headers on, set the "Spacing" to 0.00, set the "Height" to 0.50, then hit "Apply". Do the same on the Footer tab. (Do NOT forget to hit "Apply"!)<br>
+                            <img src="https://raw.githubusercontent.com/lunanerdderg/MLA-on-Linux.github.io/refs/heads/main/img/LibreOffice-Format-Page_Style-Header.png" style="padding-right: 20px;"><img src="https://raw.githubusercontent.com/lunanerdderg/MLA-on-Linux.github.io/refs/heads/main/img/LibreOffice-Format-Page_Style-Footer.png">
+                        </li>
+                        <li>
+                            Hit "Ok", then go to File --> Templates --> Save as Template. You can put whatever you want for the Name, and select any Category you like, but make CERTAIN to check the "Set as default template" box. Then hit "Save".<br>
+                            <img src="https://raw.githubusercontent.com/lunanerdderg/MLA-on-Linux.github.io/refs/heads/main/img/LibreOffice-File-Templates-Save_as_Template.jpg" style="padding-right: 20px;"><img src="https://raw.githubusercontent.com/lunanerdderg/MLA-on-Linux.github.io/refs/heads/main/img/LibreOffice-File-Templates-Save_as_Template-Set_as_default_template.png">
+                        </li>
+                    </ol>
+                </li>
+            </ul>
+        </li>
+        <li>I recommend you use my template, which you can download by clicking <a href="https://github.com/lunanerdderg/MLA-on-Linux.github.io/raw/refs/heads/main/templates/MLA-LibreOffice-Template.odt">this link</a>. If you'd prefer to format the document yourself, however, you can find my tutorial on how to do exactly that <a href="https://lunanerdderg.github.io/MLA-on-Linux.github.io/MLA-formatting/libreoffice.html">here</a>.</li>
+    </ol>
+</body>
+
+<div class="banner">
+    <a href="https://lunanerdderg.github.io/MLA-on-Linux.github.io/dyslexic/libreoffice.html" style="font-family: OpenDyslexic; background-color: #000000;">Dyslexic Mode</a>
+</div> 
+
+<div style="float: none;">
+<p><br><br><br>-----------------------------------------------------------------------</p>
+<p>Licenses:</p>
+<ul>
+    <li><a href="https://fonts.google.com/specimen/Arimo">Arimo</a> was created by <a href="https://mattesontypographics.com/">Steve Matteson</a> and is licensed under the Apache License 2.0. A copy of the license can be found <a href="https://github.com/lunanerdderg/MLA-on-Linux.github.io/blob/main/Arimo-LICENSE">here</a>. The font remains in an unchanged form throughout the entire project. In no way is Steve Matteson affiliated with me or this project, and in no way does Steve Matteson endorse anything related to me or this project. Steve Matteson is not liable for anything I do with the Arimo font.</li>
+    <li>Copyright (c) November 29th 2025, <a href="https://abbiegonzalez.com/">Abbie Gonzalez</a> (<a href="https://abbiegonzalez.com/">https://abbiegonzalez.com/</a>),
+with Reserved Font Name <a href="https://opendyslexic.org/">OpenDyslexic</a>.
+A copy of the SIL Open Font License can be found <a href="https://github.com/lunanerdderg/MLA-on-Linux.github.io/blob/main/OpenDyslexic-LICENSE">here</a>. The font remains in an unchanged form throughout the entire project. In no way is Abbie Gonzalez affiliated with me or this project, and in no way does Abbie Gonzalez endorse anything related to me or this project. Abbie Gonzalez is not liable for anything I do with the OpenDyslexic font.</li>
+</ul>
+</div>
+</html>
