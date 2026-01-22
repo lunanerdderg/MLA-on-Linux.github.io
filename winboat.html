@@ -15,7 +15,24 @@
 
 <body>
     <h1>How to use Winboat</h1>
-    <p>UNFINISHED</p>
+    <p>Winboat will NOT work  if you have less than 4 GiB of RAM and 2 CPU cores.</p>
+    <ol>
+        <li>Download your version of Winboat from <a href="https://www.winboat.app/#download">this site</a> and install it.</li>
+        <li>Continue through the slides until you see one called "Pre-Requisites". Check the bottom to see if FreeRDP is installed. If not, install the Flatpak by running <a href="https://github.com/FreeRDP/FreeRDP/wiki/PreBuilds#stable">these commands</a>.</li>
+        <li>Check if you have Docker installed. If you do not, I recommend switching the dropdown to Podman because it is easier to install and use. If you prefer to use Docker, follow the instructions at the links Winboat provides you.</li>
+        <li>
+            How to install Podman Compose:
+            <ol>
+                <li>Install your distribution's version of Podman from <a href="https://podman.io/docs/installation#installing-on-linux">here</a>. If not listed, get the <a href="https://flathub.org/en/apps/io.podman_desktop.PodmanDesktop">Flatpak</a>.</li>
+                <li>
+                    Use pip to install Compose:<br>
+                    <blockquote>pip3 install podman-compose<br></blockquote>
+                    If that doesn't work, try installing using your package manager, or manually, according to <a href="https://github.com/containers/podman-compose?tab=readme-ov-file#package-repositories">these instructions</a>.
+                </li>
+            </ol>
+        </li>
+        <li>Continue through the next few screens, following Winboat's instructions, and wait for Windows to install.</li>
+    </ol>
 </body>
 
 <div style="float: none;">
