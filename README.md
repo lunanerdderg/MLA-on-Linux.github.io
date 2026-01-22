@@ -2,7 +2,7 @@ _**If you're looking for the tutorial, click [here](https://lunanerdderg.github.
 
 # Licenses
 
-Everything on these webpages and in this repository ***except for the screenshots, [fonts](#fonts), Microsoft Word logo, LibreOffice Writer logo, and Winboat logo*** are created by me and under the Attribution-NonCommercial-ShareAlike 4.0 International license. (Screenshots were taken by me, but I did not create the programs they depict. All text was written by me except licenses, the home icon was created by me, and the A4 vs. US Letter comparison graphic was created by me.)
+Everything on these webpages and in this repository ***except for the screenshots, [fonts](#fonts), Microsoft Word logo, LibreOffice Writer logo, and Winboat logo*** are created by me and under the Attribution-NonCommercial-ShareAlike 4.0 International license. (Screenshots were taken by me, but I did not create the programs they depict. All html docs and CSS docs were written by me, the home icon was created by me, and the A4 vs. US Letter comparison graphic was created by me.)
 
 *This is a simplified, non-comprehensive guide to the Attribution-NonCommercial-ShareAlike 4.0 International license, and should not be taken as legal advice. Please consult a lawyer before taking any action.*
 
